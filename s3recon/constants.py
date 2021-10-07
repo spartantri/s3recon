@@ -1,6 +1,6 @@
 format_list = [
-    "https://{region}.amazonaws.com/{word}{sep}{env}",
-    "https://{region}.amazonaws.com/{env}{sep}{word}",
+    "https://{region}.backblazeb2.com/{word}{sep}{env}",
+    "https://{region}.backblazeb2.com/{env}{sep}{word}",
     # "https://{word}{sep}{env}.{region}.amazonaws.com",
     # "https://{env}{sep}{word}.{region}.amazonaws.com",
 ]
